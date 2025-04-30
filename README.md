@@ -62,7 +62,7 @@ VITE_APPWRITE_DATABASE_ID=
 VITE_APPWRITE_COLLECTION_ID=
 ```
 
-Replace the placeholder values with your actual **[TheMovieDatabase API][(https://www.omdbapi.com)]** and **[Appwrite](https://apwr.dev/JSM050)** credentials. You can obtain these credentials by signing up on the [TheMovieDatabase](https://www.omdbapi.com/apikey.aspx) and creating a new project on the [Appwrite](https://apwr.dev/JSM050)
+Replace the placeholder values with your actual **[API][(https://www.omdbapi.com)]** and **[Appwrite](https://apwr.dev/JSM050)** credentials. You can obtain these credentials by signing up on the [TheMovieDatabase](https://www.omdbapi.com/apikey.aspx) and creating a new project on the [Appwrite](https://apwr.dev/JSM050)
 
 **Running the Project**
 
