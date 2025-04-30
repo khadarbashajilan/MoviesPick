@@ -1,6 +1,6 @@
 # MoviesPick
 
-Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, and styled with TailwindCSS, MoviesPick is a website project designed to help beginners get started with learning React.js. The platform offers a sleek and modern experience for browsing and discovering movies.
+Built with React.js for the user interface, Appwrite for the Trending Movies Algorithm, and styled with TailwindCSS. The platform offers a sleek and modern experience for browsing and discovering movies.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
